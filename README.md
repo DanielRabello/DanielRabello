@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,30&height=180&section=header&text=Daniel%20Rabello&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,30&height=180&section=header&text=Olá%20Mundo!%20Eu%20Sou%20Daniel%20Rabello&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
 <div align="center">
