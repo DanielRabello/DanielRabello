@@ -22,23 +22,24 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### **Linguagens & Back-end**
+#### **Linguagens & Web**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 #### **Controle de Versão & Ferramentas**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### 📊 Estatísticas & Atividades
-
-<br />
+### 📊 Atividades
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielRabello&theme=tokyonight&border_radius=8" alt="Sequência de Commits" />
