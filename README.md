@@ -38,11 +38,6 @@
 
 ### 📊 Estatísticas & Atividades
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielRabello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRabello&layout=compact&theme=tokyonight&border_radius=8" alt="Linguagens mais usadas" />
-</div>
-
 <br />
 
 <div align="center">
